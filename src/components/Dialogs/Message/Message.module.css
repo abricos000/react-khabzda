@@ -1,0 +1,11 @@
+.message{
+    margin: 30px;
+    font-size: 30px;
+    background-color: rgb(240, 233, 233);
+    color: rgb(0, 0, 0);
+    padding:0 10px;
+    border-radius: 10px;
+}
+.messageWrapper{
+    margin: 10px 0;
+}

@@ -1,0 +1,14 @@
+.dialog{
+border: 1px solid rgb(146, 144, 144);
+padding: 5px;
+border-radius: 5px;
+}
+ .dialog a{
+     text-decoration: none;
+     color: #333;
+ }
+ .dialog img{
+     height: 60px;
+     border-radius: 50px;
+     margin-right: 10px;
+ }

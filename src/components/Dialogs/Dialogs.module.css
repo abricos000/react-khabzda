@@ -1,0 +1,22 @@
+.dialogs{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+.dialogsItem{
+margin: 10px;
+padding-right: 10px;
+border-right: 2px solid rgb(45, 12, 163);
+}
+    
+.messages{
+padding: 10px;
+}
+.btnMessage{
+display: flex;
+align-items: center;
+}
+.btnMessage button{
+    margin-left: 20px;
+    height: 30px;
+  
+}
